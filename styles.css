@@ -89,7 +89,7 @@
 }
 .resumebutton:hover {
     background-color: var(--hello-secondary);
-    color: white;
+    color: var(--hello-background);
     text-decoration: none;
 }
 
