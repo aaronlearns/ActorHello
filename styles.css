@@ -83,13 +83,14 @@
 .resumebutton {
     border-radius: 1rem;
     color: var(--hello-secondary);
-    padding: 1rem;
+    padding: 5rem;
     font-weight: bold;
     font-size: 47pt;
 }
 .resumebutton:hover {
     background-color: var(--hello-secondary);
     color: var(--hello-background);
+    text-align: center;
     text-decoration: none;
 }
 
