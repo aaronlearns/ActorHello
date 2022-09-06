@@ -83,14 +83,12 @@
 .resumebutton {
     border-radius: 1rem;
     color: var(--hello-secondary);
-    padding: 5rem;
+    padding: 5px;
+    margin: 2em;
     font-weight: bold;
-    font-size: 47pt;
+    font-size: 3em;
 }
 .resumebutton:hover {
-    background-color: var(--hello-secondary);
-    color: var(--hello-background);
-    text-align: center;
     text-decoration: none;
 }
 
@@ -318,8 +316,8 @@ a.navlink:hover {
         text-align: center;
     }
 
-    .about-box .picnbio .resumebutton h2 a {
-        margin-top: 1rem;
+    .resumebutton {
+        font-size: 2em;
     }
 
     ul div {
@@ -348,6 +346,10 @@ a.navlink:hover {
         overflow: hidden;
         width: 8.8rem;
         height: 6rem;
+    }
+
+    .resumebutton {
+        font-size: 1.5em;
     }
 
     .socials {
