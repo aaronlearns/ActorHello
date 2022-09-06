@@ -98,7 +98,7 @@
 }
 
 .borderhover:hover {
-    background-color: var(--hello-primary);
+    background-color: var(--hello-secondary);
     border-radius: 1rem;
     color: var(--hello-background);
     text-decoration: none;
