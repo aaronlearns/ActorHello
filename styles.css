@@ -82,8 +82,8 @@
 
 .resumebutton {
     border-radius: 1rem;
-    color: var(--hello-primary);
-    padding: .3rem;
+    color: var(--hello-secondary);
+    padding: 1rem;
     font-weight: bold;
     font-size: 47pt;
 }
